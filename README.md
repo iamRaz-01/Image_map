@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date: 27/11/2024
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -307,5 +307,25 @@ function createDomStructure(district) {
 
 ```
 # OUTPUT
+## Kodungaiyur Map 
+![image](https://github.com/user-attachments/assets/731c553c-96bf-453c-ba0c-2476297ed642)
+
+## Ceelam Hall 
+![image](https://github.com/user-attachments/assets/2fa3e1cf-1124-4ed4-9ae1-53aa70df8560)
+
+## Thiruthangal Nadar College
+![image](https://github.com/user-attachments/assets/69b64c89-9795-41bc-bad7-b79dbed6831c)
+
+## Madhavaram Botanical garden
+![image](https://github.com/user-attachments/assets/1c1b630c-ecd1-457c-a559-56b9ca9c4943)
+
+## Med-Plus Kodungaiyur
+![image](https://github.com/user-attachments/assets/1ce59329-2091-44a2-ae80-a6e174fb503d)
+
+## Apple Supermarket
+![image](https://github.com/user-attachments/assets/481a7226-c6d5-4a5e-8363-cac8b672a320)
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
